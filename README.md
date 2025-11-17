@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGWGiUGJyM6XA/profile-displaybackgroundimage-shrink_350_1400/0/1710945515470?e=1720656000&v=beta&t=c1AXBX7rB9X128PVGUQ3kVD4o_D27ds2EqAqKYaMx6Y)
+![MasterHead]([https://media.licdn.com/dms/image/D5616AQGWGiUGJyM6XA/profile-displaybackgroundimage-shrink_350_1400/0/1710945515470?e=1720656000&v=beta&t=c1AXBX7rB9X128PVGUQ3kVD4o_D27ds2EqAqKYaMx6Y](https://imgur.com/a/VD0KLC8))
 <h1 align="center">Hi 👋, I'm Yakup</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
